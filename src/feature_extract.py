@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 # Extract eigen vewctor from image
-# Jerry ZJ, 2019/6/2
 
 from PIL import Image
 from os import listdir, getcwd
