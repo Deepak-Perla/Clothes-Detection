@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 19 23:11:51 2019
 
-@author: Wei-Hsiang, Shen
-"""
 
 from tensorflow.keras import layers
 
